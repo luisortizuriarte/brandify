@@ -1,4 +1,4 @@
 # brandify
 Automatically insert logos into your matplotlib images.
 
-![test-image](https://raw.githubusercontent.com/Prukutu/brandify/master/sample-logo.png)
+![test-image](https://raw.githubusercontent.com/Prukutu/brandify/master/test-logo.png)
